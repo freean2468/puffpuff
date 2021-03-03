@@ -2,10 +2,11 @@
 
 ![puffpuff preview](https://i.imgur.com/TXO7zwv.jpg)
 
-### 2008년 C언어 및 WinAPI를 사용해 제작한 팩맨류 게임
+### C언어 및 WinAPI를 사용해 제작한 팩맨류 게임
 * 사용 언어 : C
 * 개발 환경 : Visual Studio 2007, WinAPI
 * 실행 환경 : Windows only
+* 개발 기간 : 2008년 11월 25일 ~ 2008년 12월 09
 
 
 ### 2020년 12월 6일
